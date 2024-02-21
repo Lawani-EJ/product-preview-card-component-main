@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution Screenshot](./images/Screenshot%202024-02-21%20114233.png)
+![Solution Screenshot](./images/screenshot.png)
 ![Solution Screenshot](./images/image-product-mobile.jpg)
 ![Solution Screenshot](./images/image-product-desktop.jpg)
 
